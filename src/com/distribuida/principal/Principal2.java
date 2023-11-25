@@ -6,6 +6,9 @@ public class Principal2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("HOLA MUNDO DESDE GIT!!!");
+		System.out.println("HOLA MUNDO DESDE GIT!!!");
+		System.out.println("HOLA MUNDO DESDE GIT!!!");
+		System.out.println("HOLA MUNDO DESDE GIT!!!");
 	}
 
 }
